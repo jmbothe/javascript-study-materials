@@ -2,6 +2,8 @@
 
 Enough people have asked me "How did you learn Javascript" to warrant this document. Now when people ask me, I'll just send them this link instead of digging through my Chrome bookmarks and slacking out a list of links.
 
+This document is intentionally brief. There are A LOT of resources available on the internet, and not all of them are high quality. It is easy to get distracted and waste time with tools that just won't get the job done. I've made all of those mistakes so you don't have to.
+
 Note that everything on this list is free, but if you like what you learned, consider donating (in the case of open source projects) or buying premium memberships (in the case of products).
 
 ## Foundations
