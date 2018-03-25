@@ -44,6 +44,6 @@ As for bonus materials, if you really liked You Don't Know Javascript and you wa
 
 Here are some of my highly-biased opinions:
 
-* Don't read Eloquent Javascript. It's poorly organized and confusing. Also the format of the online version is weird. If you don't already know Javascript well, this book will probably be more confusing than heplful.
+* Don't read Eloquent Javascript. It's really popular and I really can't figure out why. It's poorly organized and confusing. Also the format of the online version is weird. If you don't already know Javascript well, this book will probably be more confusing than heplful.
 
 * Don't do Free Code Camp all the way through. Aside from the sections I mentioned above, Free Code Camp is a waste of time. Trust me: I did a lot of it and regret it.
